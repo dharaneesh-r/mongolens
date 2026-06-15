@@ -11,7 +11,7 @@
 [![React](https://img.shields.io/badge/React-18-61dafb?style=flat-square&logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
 [![React Flow](https://img.shields.io/badge/React%20Flow-11-ff6b6b?style=flat-square)](https://reactflow.dev)
-[![License](https://img.shields.io/badge/license-MIT-a78bfa?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-a78bfa?style=flat-square)]()
 
 > **Instantly visualize your Mongoose schemas as interactive ER diagrams — right inside Chrome DevTools.**
 
@@ -104,6 +104,19 @@ npm run build
 3. Click **Load unpacked**
 4. Select the `dist/` folder inside the project directory
 5. Open any webpage → press **F12** → click the **MongoLens** tab
+
+## Build Environment Requirements
+
+- Operating System: Windows, macOS, or Linux
+- Node.js: 18.0.0 or later
+- npm: 9.0.0 or later
+
+Verify installation:
+
+```bash
+node -v
+npm -v
+```
 
 ---
 
@@ -308,7 +321,9 @@ User uploads .js/.ts files
 
 ## License
 
-MIT © 2024 MongoLens Contributors
+All Rights Reserved © 2026 Dharaneesh R
+
+Unauthorized copying, modification, distribution, or use of this software is prohibited without explicit permission from the author.
 
 ---
 
