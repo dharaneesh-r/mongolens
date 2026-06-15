@@ -2,6 +2,7 @@
   "name": "mongodb-lens-extension",
   "private": true,
   "version": "0.0.0",
+  "author": "Dharaneesh R",
   "type": "module",
   "scripts": {
     "dev": "vite",

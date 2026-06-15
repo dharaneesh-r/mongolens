@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "name": "MongoLens",
   "version": "1.0.0",
+  "author": "Dharaneesh R",
   "description": "Visualize MongoDB/Mongoose schemas as interactive ER diagrams. Upload your model files and instantly see your schema graph.",
   "permissions": [],
   "devtools_page": "devtools.html",
