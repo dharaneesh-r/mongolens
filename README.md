@@ -95,6 +95,8 @@ npm install
 
 # 3. Build the extension
 npm run build
+
+# The production extension files will be generated in the `dist/` directory.
 ```
 
 **Load in Chrome:**
